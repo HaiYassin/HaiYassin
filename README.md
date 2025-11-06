@@ -245,3 +245,17 @@ Scrum • Kanban • ペアプログラミング • モブプログラミング
 ⭐️ From [HaiYassin](https://github.com/HaiYassin)
 
 </div>
+
+<div align="center">
+
+#### A few quotes on the philosophy of Bruce Lee...
+
+-- Life itself is your teacher, and you are in a state of permanent learning.
+-- Knowing is not enough. One must know how to apply. The will is not enough. One must know how to act.
+-- “Don't fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.”
+...
+
+<img width="346" height="272" alt="image" src="https://github.com/user-attachments/assets/3ffa7b19-314a-4efe-9d47-97af567b1e3e" />
+
+
+</div>
